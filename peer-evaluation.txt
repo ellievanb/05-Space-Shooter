@@ -1,0 +1,47 @@
+Name: Shantanu Bhattacharya (seoLegna)
+Date: 14/10/2019
+Project: 05-SPACE-SHOOTER
+Peer's repository: https://github.com/ellievanb/05-Space-Shooter
+
+
+
+What is something you learned by reviewing your peer's project?
+--> It was a great idea to let the enemies fight back. 
+    Those sprites were really cool too. Elizabeth's project really was entertaining and helpful as 
+    it gave me a lot of good ideas.
+    The code was well optimised and much easier to read when compared to my code.
+    It was over all a great project.
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+--> I would love to arm my enemies as well as better optimize my code.
+    It would also be a great idea to make my code be as easily readeable as 
+    Elizabeth's code.
+ 
+What suggestions would you have for your peer to improve his/her code?
+--> The basic idea of the program is great and it was really great to play a 
+    smooth and well optimized game, but it would be a nice idea to kill the 
+    bullet sprite after it hits the enemy and it would be even better if the 
+    ship could take damage from the enemy bullets.
+    It would be even cooler if the background was something in motion. 
+    In no way does the game feel incomplete, these 
+    ideas are just to make it better. I would love to answer any questions 
+    that you may have about my suggestions. 
+
+What could have been clearer or better commented?
+--> Nothing! The code was really well organised and it was very clear which file to run,
+    the README file was a very helpful insight as well.
+ 
+Was there anything in the code that was confusing to you? If so, what?
+--> No. The code was very clear and easy to understand.
+ 
+Does the repository contain an appropriate LICENSE?
+--> Yes it does.
+ 
+What is something he/she could add to the README.md to make it more descriptive?
+--> Nothing much really, it was sufficiently outlined and provided just the right 
+    amount of insight.
+ 
+Pay a compliment to your peer based on the quality of his/her code.
+--> Elizabeth, your game was great! It was really fun and creative.
+    It was entertaining and smooth, the sprite choice was wonderful.
+
